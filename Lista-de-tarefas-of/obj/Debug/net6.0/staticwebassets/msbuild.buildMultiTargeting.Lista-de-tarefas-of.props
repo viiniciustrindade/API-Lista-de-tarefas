@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lista-de-tarefas-of.props" />
+</Project>

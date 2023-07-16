@@ -1,0 +1,147 @@
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.exe
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.deps.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.runtimeconfig.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.Lista-de-tarefas-of.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.build.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\scopedcss\bundle\Lista-de-tarefas-of.styles.css
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\refint\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\Lista-de-tarefas-of\Lista-de-tarefas-of\obj\Debug\net6.0\ref\Lista-de-tarefas-of.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.exe
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.deps.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.runtimeconfig.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.AssemblyReference.cache
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfoInputs.cache
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfo.cs
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CoreCompileInputs.cache
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\scopedcss\bundle\Lista-de-tarefas-of.styles.css
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CopyComplete
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\refint\Lista-de-tarefas-of.dll
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.genruntimeconfig.cache
+C:\Users\estagiario3\Desktop\Api-lista-de-tarefas-oficial\Lista-de-tarefas-of\obj\Debug\net6.0\ref\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.exe
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.deps.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.runtimeconfig.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.Lista-de-tarefas-of.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.build.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\scopedcss\bundle\Lista-de-tarefas-of.styles.css
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\refint\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Documentos\Projetos movtech - estagio\API-lista-de-tarefas\Lista-de-tarefas-of\obj\Debug\net6.0\ref\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.Lista-de-tarefas-of.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.build.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lista-de-tarefas-of.props
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\scopedcss\bundle\Lista-de-tarefas-of.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\refint\Lista-de-tarefas-of.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\Lista-de-tarefas-of.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\APi-\Lista-de-tarefas-of\obj\Debug\net6.0\ref\Lista-de-tarefas-of.dll
